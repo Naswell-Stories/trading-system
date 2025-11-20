@@ -1,2 +1,4 @@
-# trading-system
-Trading Signal System
+streamlit
+yfinance
+pandas
+fredapi
