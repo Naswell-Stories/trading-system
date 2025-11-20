@@ -1,4 +1,1 @@
-streamlit
-yfinance
-pandas
-fredapi
+trading-system
